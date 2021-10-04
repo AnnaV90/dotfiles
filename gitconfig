@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = AnnaV90@users.noreply.github.com
+	name = Anna Vaugrante
